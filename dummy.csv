@@ -1,0 +1,6 @@
+ID,Posisi Pasukan,Longitude,Latitude,Kondisi Geografis,Sumber Daya,Ancaman,Jaringan Komunikasi,Pergerakan Pasukan
+1,Pasukan A,-4.546759,136.883721,Pegunungan,Logistik: 500 ton makanan,Posisi musuh di sebelah timur,"Pos Komando: (-5.1234, 137.5678)",Rute: Timika - Jayapura
+2,Pasukan B,-8.499112,140.404984,Hutan,Sarana Medis: Rumah Sakit,Pelabuhan musuh di sepanjang pantai,"Stasiun Radio: (-4.4321, 139.0123)",Rute: Merauke - Sorong
+3,Pasukan C,-2.53371,140.71813,Lembah sungai,"Pangkalan Militer: Koordinat (2.9876, 139.8765)",Daerah konflik di sekitar Wamena,"Titik Komunikasi: (-1.2345, 140.5678)",Rute: Jayapura - Nabire
+4,Pasukan D,-0.87956,131.26104,Dataran Rendah,Logistik: 200 ton amunisi,Posisi musuh di sebelah selatan,"Pos Komando: (2.3456, 137.9876)",Rute: Sorong - Manokwari
+5,Pasukan E,-4.2692,138.0804,Pegunungan,Logistik: 300 ton bahan bakar,Posisi musuh di sebelah barat,"Stasiun Radio: (-3.4567, 138.7654)",Rute: Timika - Jayapura
